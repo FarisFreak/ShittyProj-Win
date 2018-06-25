@@ -1,0 +1,11 @@
+C:\Users\Faris Hasbi Ridha\source\repos\ShittyProj\ShittyProj\bin\Debug\ShittyProj.exe.config
+C:\Users\Faris Hasbi Ridha\source\repos\ShittyProj\ShittyProj\bin\Debug\ShittyProj.exe
+C:\Users\Faris Hasbi Ridha\source\repos\ShittyProj\ShittyProj\bin\Debug\ShittyProj.pdb
+C:\Users\Faris Hasbi Ridha\source\repos\ShittyProj\ShittyProj\obj\Debug\ShittyProj.csprojAssemblyReference.cache
+C:\Users\Faris Hasbi Ridha\source\repos\ShittyProj\ShittyProj\obj\Debug\ShittyProj.frmLogin.resources
+C:\Users\Faris Hasbi Ridha\source\repos\ShittyProj\ShittyProj\obj\Debug\ShittyProj.Properties.Resources.resources
+C:\Users\Faris Hasbi Ridha\source\repos\ShittyProj\ShittyProj\obj\Debug\ShittyProj.csproj.GenerateResource.cache
+C:\Users\Faris Hasbi Ridha\source\repos\ShittyProj\ShittyProj\obj\Debug\ShittyProj.csproj.CoreCompileInputs.cache
+C:\Users\Faris Hasbi Ridha\source\repos\ShittyProj\ShittyProj\obj\Debug\ShittyProj.exe
+C:\Users\Faris Hasbi Ridha\source\repos\ShittyProj\ShittyProj\obj\Debug\ShittyProj.pdb
+C:\Users\Faris Hasbi Ridha\source\repos\ShittyProj\ShittyProj\obj\Debug\ShittyProj.frmMain.resources
